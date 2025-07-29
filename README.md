@@ -1,4 +1,4 @@
-# 💼 HR Analytics Dashboard | Power BI Final Project
+# 💼 HR Analytics Dashboard | Power BI Project
 
 A professional, multi-page HR analytics dashboard built in Power BI to deliver strategic insights into employee demographics, performance, training effectiveness, and attrition patterns. This project was developed as the final task in the **Power BI Workshop by Qafza**, but it significantly exceeds the course expectations in terms of depth, design, and business value.
 
