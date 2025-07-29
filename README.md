@@ -133,7 +133,7 @@ Using a combined column (`Employee Type + Classification Type`), a clear pattern
 ## 🙋‍♀️ About Me
 
 I'm Reham Mahmoud Rushdi — a data-driven problem solver with a growing passion for business intelligence and analytics.  
-Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile) 🚀
+Let's connect on [LinkedIn](https://www.linkedin.com/in/reham-mahmoud-rushdi/) 🚀
 
 ---
 
