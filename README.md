@@ -121,9 +121,9 @@ Using a combined column (`Employee Type + Classification Type`), a clear pattern
 ## 📸 Dashboard Preview
 
 ![Power BI Dashboard](visuals/Overview.jpg)
-![Power BI Dashboard](visuals/Employee Demographics.jpg)
-![Power BI Dashboard](visuals/Training and Development.jpg)
-![Power BI Dashboard](visuals/Performance and Engagement.jpg)
+![Power BI Dashboard](visuals/Employee_Demographics.jpg)
+![Power BI Dashboard](visuals/Training_and_Development.jpg)
+![Power BI Dashboard](visuals/Performance_and_Engagement.jpg)
 
 ---
 
